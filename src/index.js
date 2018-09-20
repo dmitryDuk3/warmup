@@ -1,3 +1,4 @@
 module.exports = function warmup(temperature) {
-  // your implementation here
+  let fahrenheit = celsius * (9 / 5) + 32;// your implementation here
+  return fahrenheit;
 };
